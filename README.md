@@ -1,1 +1,1 @@
-# QA-Java_InternalMobility-2022
+# QA-Java_AllTrainings-2022
